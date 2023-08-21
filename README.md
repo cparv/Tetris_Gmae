@@ -1,5 +1,4 @@
-play now (w for rotate) https://raw.githack.com/cparv/Tetris_Gmae/main/game.png
-
+play now (w for rotate) [https://rawcdn.githack.com/cparv/Tetris_Gmae/0ae80478cff15b69f783672d620ea7b1bafc2699/tetris.html]
 
 "# Tetris_Gmae" 
 
